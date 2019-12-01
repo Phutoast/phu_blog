@@ -1,4 +1,4 @@
 [build]
-  base = "."
+  base = ""
   command = "yarn build"
   publish = "demo/public"
