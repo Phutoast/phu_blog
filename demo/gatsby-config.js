@@ -6,4 +6,5 @@
 
 module.exports = {
   plugins: [`@nehalist/gatsby-theme-nehalem`],
+  pathPrefix: "/test_website_blog",
 };
