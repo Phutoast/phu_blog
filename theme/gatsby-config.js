@@ -2,8 +2,8 @@ module.exports = (themeOptions) => {
   const loadDefaultPages = themeOptions.loadDefaultPages !== undefined ? themeOptions.loadDefaultPages : true;
   const contentPath      = themeOptions.contentPath || 'content';
   const manifest         = themeOptions.manifest ? themeOptions.manifest : {
-    name: `nehalem - A Gatsby theme`,
-    short_name: `nehalem`,
+    name: `Phu Blog`,
+    short_name: `phu`,
     start_url: `/`,
     background_color: `#a4cbb8`,
     theme_color: `#a4cbb8`,
@@ -13,15 +13,14 @@ module.exports = (themeOptions) => {
 
   return {
     siteMetadata: {
-      title: `nehalem`,
-      siteUrl: `https://nehalem.netlify.com`,
-      description: `A Gatsby theme for %TOPICS%`,
+      title: `Phu Sakulwongtana`,
+      siteUrl: `https://phublog.netlify.com/`,
+      description: `Doing Like doing %TOPICS%`,
       topics: [
-        `bloggers`,
-        `geeks`,
-        `nerds`,
-        `people`,
-        `everyone`
+        `Probabilistic Model`,
+        `Reinforcement Learning`,
+        `Game Theory`,
+        `Optimization`
       ],
       menu: [
         {
@@ -45,17 +44,15 @@ module.exports = (themeOptions) => {
       ],
       search: true,
       author: {
-        name: `nehalem`,
-        description: `I'm <strong>nehalem</strong>, a Gatsby theme by 
-        <a href="https://nehalist.io" rel="noopener" target="_blank">nehalist.io</a>. If you like what you see feel free to give a 
-        <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
+        name: `Phu`,
+        description: `I'm <strong>Phu Sakulwongtana</strong> from Thailand. Third Year computer science student at University College London. Working on creating decisiom making system that could be used in the real world`,
         social: {
           facebook: ``,
-          twitter: `https://twitter.com/nehalist`,
-          linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
+          twitter: `https://twitter.com/PSakulwongtana`,
+          linkedin: `https://www.linkedin.com/in/phu-sakulwongtana/`,
           instagram: ``,
           youtube: ``,
-          github: `https://github.com/nehalist`,
+          github: `https://github.com/phutoast`,
           twitch: ``
         }
       }

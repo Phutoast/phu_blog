@@ -34,19 +34,19 @@ const DownloadButton = styled.a`
 const SidebarContent: FunctionComponent = () => {
   return (
     <StickySidebarContent>
-      <AdStyle />
-      <Carbon name={`carbon-home`} placement={`nehalemnetlifycom`} serve={`CE7D453J`} />
+      {/* <AdStyle /> */}
+      {/* <Carbon name={`carbon-home`} placement={`nehalemnetlifycom`} serve={`CE7D453J`} /> */}
 
       <Bio textAlign={`justify`} avatarStyle={{float: `left`, marginRight: `10px`}}/>
 
-      <DownloadButton
+      {/* <DownloadButton
         href={`https://nehalem.netlify.com/getting-started`}
         target={`_blank`}
         rel={`noopener`}
         aria-label={`Get this theme`}
       >
         Get this theme &#129321;
-      </DownloadButton>
+      </DownloadButton> */}
 
     </StickySidebarContent>
   );
