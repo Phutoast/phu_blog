@@ -5,6 +5,9 @@
     "demo"
   ],
   "dependencies": {
-    "gh-pages": "^2.1.1"
+    "gatsby-remark-katex": "^3.1.18",
+    "gatsby-transformer-remark": "^2.6.39",
+    "gh-pages": "^2.1.1",
+    "katex": "^0.11.1"
   }
 }

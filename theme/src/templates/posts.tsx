@@ -9,6 +9,7 @@ import {Link} from "gatsby";
 import SidebarContent from "../components/sidebar-content";
 import SEO from "../components/seo";
 import Theme from "../styles/theme";
+import "katex/dist/katex.min.css"
 
 interface PostsPageProps {
   pathContext: {
