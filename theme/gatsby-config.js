@@ -3,12 +3,12 @@ module.exports = (themeOptions) => {
   const contentPath      = themeOptions.contentPath || 'content';
   const manifest         = themeOptions.manifest ? themeOptions.manifest : {
     name: `Phu Blog`,
-    short_name: `phu`,
+    short_name: `Phu Sakulwongtana`,
     start_url: `/`,
     background_color: `#a4cbb8`,
     theme_color: `#a4cbb8`,
     display: `minimal-ui`,
-    icon: `${__dirname}/assets/nehalist-gatsby.png`
+    icon: `${__dirname}/assets/phu-icon.png`
   };
 
   return {
@@ -44,8 +44,8 @@ module.exports = (themeOptions) => {
       ],
       search: true,
       author: {
-        name: `Phu`,
-        description: `I'm <strong>Phu Sakulwongtana</strong> from Thailand. Third Year computer science student at University College London. Working on creating decisiom making system that could be used in the real world`,
+        name: `Phu Sakulwongtana`,
+        description: `I'm <strong>Phu Sakulwongtana</strong> from Thailand. Third Year computer science student at University College London. Working on creating decisiom making system that could be used in the real world.`,
         social: {
           facebook: ``,
           twitter: `https://twitter.com/PSakulwongtana`,

@@ -26,7 +26,7 @@ const HomeLink = styled(Link)`
 const Logo: FunctionComponent<LogoProps> = ({title}) => {
   const logo = useStaticQuery(graphql`
     query {
-      file(sourceInstanceName: {eq: "themeAssets"}, name: {eq: "nehalist-gatsby"}) {
+      file(sourceInstanceName: {eq: "themeAssets"}, name: {eq: "phu-icon"}) {
         childImageSharp {
           fixed(width: 30, height: 30) {
             ...GatsbyImageSharpFixed
