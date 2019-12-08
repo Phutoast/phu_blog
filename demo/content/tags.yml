@@ -2,3 +2,7 @@
   color: "#007acc"
   icon: ./assets/images/typescript.svg
   featured: true
+- name: Paper Note
+  color: "#007acc"
+  icon: ./assets/images/typescript.svg
+  featured: true

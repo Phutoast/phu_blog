@@ -15,7 +15,7 @@ module.exports = (themeOptions) => {
     siteMetadata: {
       title: `Phu Sakulwongtana`,
       siteUrl: `https://phublog.netlify.com/`,
-      description: `I Like doing %TOPICS%`,
+      description: `I like doing %TOPICS%`,
       topics: [
         `Probabilistic Model`,
         `Reinforcement Learning`,
@@ -30,6 +30,18 @@ module.exports = (themeOptions) => {
         {
           name: 'About Me',
           path: '/about_me'
+        },
+        {
+          name: 'Publications',
+          path: '/publications'
+        },
+        {
+          name: 'Courses',
+          path: '/courses'
+        },
+        {
+          name: 'Research Monographs',
+          path: '/research_notes'
         },
       ],
       footerMenu: [
