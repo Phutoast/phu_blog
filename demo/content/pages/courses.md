@@ -4,7 +4,7 @@ path: "/courses"
 excerpt: Note that I have taken throughout a years.
 ---
 
-This is a list of courses that I have taken throughout a years with notes associated with each of the courses/textbook.
+This is a list of courses that I have taken throughout a years with notes associated with each of the courses/textbook. It takes a while to transfer all my notes (in paper) into the website. Stay Tuned!!
 
 <div>
   <div style="float: left; width: 25%;">
