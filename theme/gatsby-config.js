@@ -28,20 +28,8 @@ module.exports = (themeOptions) => {
           path: '/'
         },
         {
-          name: 'About Me',
-          path: '/about_me'
-        },
-        {
-          name: 'Publications',
-          path: '/publications'
-        },
-        {
-          name: 'Courses',
-          path: '/courses'
-        },
-        {
-          name: 'Research Monographs',
-          path: '/research_notes'
+          name: 'Test Page',
+          path: '/test'
         },
       ],
       footerMenu: [

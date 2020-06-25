@@ -30,4 +30,6 @@ Some good quote
 >
 > -- Someone wise.
 
+I also can refer to some [pages](/test).
+
 *Cover by [@anniespratt](https://unsplash.com/@anniespratt) Thanks*
