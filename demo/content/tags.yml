@@ -1,8 +1,4 @@
 - name: ETC
   color: "#007acc"
-  icon: ./assets/images/typescript.svg
-  featured: true
-- name: Paper Note
-  color: "#007acc"
-  icon: ./assets/images/typescript.svg
+  icon: ./assets/icons/typescript.svg
   featured: true

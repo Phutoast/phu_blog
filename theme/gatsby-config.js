@@ -17,10 +17,7 @@ module.exports = (themeOptions) => {
       siteUrl: `https://phublog.netlify.com/`,
       description: `I like doing %TOPICS%`,
       topics: [
-        `Probabilistic Model`,
-        `Reinforcement Learning`,
-        `Game Theory`,
-        `Optimization`
+        `Nothing`,
       ],
       menu: [
         {
