@@ -17,10 +17,7 @@ module.exports = (themeOptions) => {
       siteUrl: `https://phublog.netlify.com/`,
       description: `I like doing %TOPICS%`,
       topics: [
-        `Probabilistic Model`,
-        `Reinforcement Learning`,
-        `Game Theory`,
-        `Optimization`
+        `Nothing`,
       ],
       menu: [
         {
@@ -28,20 +25,8 @@ module.exports = (themeOptions) => {
           path: '/'
         },
         {
-          name: 'About Me',
-          path: '/about_me'
-        },
-        {
-          name: 'Publications',
-          path: '/publications'
-        },
-        {
-          name: 'Courses',
-          path: '/courses'
-        },
-        {
-          name: 'Research Monographs',
-          path: '/research_notes'
+          name: 'Test Page',
+          path: '/test'
         },
       ],
       footerMenu: [

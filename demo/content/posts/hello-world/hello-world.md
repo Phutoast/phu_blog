@@ -30,4 +30,8 @@ Some good quote
 >
 > -- Someone wise.
 
+I also can refer to some [pages](/test). And an image 
+
+![alt text](../../assets/images/test_pic.jpg)
+
 *Cover by [@anniespratt](https://unsplash.com/@anniespratt) Thanks*
