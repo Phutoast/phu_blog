@@ -36,13 +36,24 @@ I also can refer to some [pages](/test). And an image
 
 ---
 
-### Footnotes
+#### Footnotes
 
 1. All we can do now is to link the page. Following Distill Format, the best we can do is to selects the nearest section. [[↩]](#quick-markdown-test). 
 
-### References 
+#### References 
 
 1. $\alpha^\alpha$-Rank: Practically Scaling $\alpha$-Rank through Stochastic Optimisation [[link]](https://arxiv.org/abs/1909.11628) [[↩]](#quick-markdown-test).
 2. Modelling Bounded Rationality in Multi-Agent Interactions by Generalized Recursive Reasoning [[link]](https://arxiv.org/abs/1901.09216) [[↩]](#quick-markdown-test).
+
+#### Citation 
+A quick citation would be 
+```
+Sakulwongtana Phu, "Hello World", phublog.me, 2020
+```
+
+#### Edit Notes 
+
+1. Adding Footnotes and References 
+2. Adding Citations
 
 *Cover by [@anniespratt](https://unsplash.com/@anniespratt) Thanks*
